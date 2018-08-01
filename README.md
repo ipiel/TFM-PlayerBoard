@@ -1,2 +1,2 @@
 # TFM-PlayerBoard
-A web version personal resource board for Terraforming Mars.
+A personal playing board of Terraforming Mars.
